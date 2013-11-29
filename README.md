@@ -1,6 +1,6 @@
 # Training tasks
 
-This of repository contains training problems solutions.
+This of repository contains training tasks solutions.
 
 You can download training tasks [here](http://kittens-are-on-the-way.39.yt/training-tasks.pdf).
 
